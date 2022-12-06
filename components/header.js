@@ -4,7 +4,7 @@ import { RiTestTubeFill } from "react-icons/ri";
 function Header() {
   return (
     <nav className="w-full h-[10vh] px-3 md:px-6 lg:px-9 font-montserrat border-b border-gray-200 z-50">
-      <div className="h-full hidden md:flex justify-between items-center">
+      <div className="flex justify-between items-center">
         <Link href='/' passHref>
           <span className="font-bold text-2xl">
             IT Experiments
