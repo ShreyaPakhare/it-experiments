@@ -26,18 +26,18 @@ function Experiment9() {
             &lt;/script&gt; <br />
             &lt;/head&gt; <br />
             &lt;body&gt; <br />
-            &lt;lable&gt; for="n1"&gt;N1:&lt;/lable&gt; <br />
+            &lt;lable for="n1"&gt;N1:&lt;/lable&gt; <br />
             &lt;input type="text" id="n1" /&gt;&lt;/br&gt;&lt;/br&gt; <br />
-            &lt;lable&gt; for="n2"&gt;N2:&lt;/lable&gt; <br />
+            &lt;lable for="n2"&gt;N2:&lt;/lable&gt; <br />
             &lt;input type="text" id="n2" /&gt;&lt;/br&gt;&lt;/br&gt; <br />
             &lt;select id="operators"&gt; <br />
-            &lt;option&gt; value="+"&gt;+&lt;/option&gt; <br />
-            &lt;option&gt; value="-"&gt;-&lt;/option&gt; <br />
-            &lt;option&gt; value="/"&gt;/&lt;/option&gt; <br />
-            &lt;option&gt; value="*"&gt;*&lt;/option&gt; <br />
+            &lt;option value="+"&gt;+&lt;/option&gt; <br />
+            &lt;option value="-"&gt;-&lt;/option&gt; <br />
+            &lt;option value="/"&gt;/&lt;/option&gt; <br />
+            &lt;option value="*"&gt;*&lt;/option&gt; <br />
             &lt;/select&gt; <br />
             &lt;lable&gt;Result:&lt;/lable&gt; <br />
-            &lt;button&gt; onclick="calc();"&gt;=&lt;/button&gt; <br />
+            &lt;button onclick="calc();"&gt;=&lt;/button&gt; <br />
             &lt;input type="text" id="result" /&gt; <br />
             &lt;/body&gt; <br />
             &lt;/html&gt; <br />
