@@ -16,13 +16,13 @@ function Experiment8() {
               &lt;body&gt; <br />
               &lt;h1&gt;&lt;center&gt;&lt;i&gt;Travel Book&lt;/i&gt;&lt;/center&gt;&lt;/h1&gt; <br />
               &lt;div&gt; <br />
-              &lt;a&gt; href="kerala.html"&gt; <br />
+              &lt;a href="kerala.html"&gt; <br />
               &lt;img title="Kerala" src="kerala.jpg" alt="image" width="400" height="300" /&gt; <br />
               &lt;/a&gt; <br />
-              &lt;a&gt; href="mysore.html"&gt; <br />
+              &lt;a href="mysore.html"&gt; <br />
               &lt;img src="mysore.jpg" alt="image" width="400" height="300" /&gt; <br />
               &lt;/a&gt; <br />
-              &lt;a&gt; href="rajasthan.html"&gt; <br />
+              &lt;a href="rajasthan.html"&gt; <br />
               &lt;img src="rajasthan.jpg" alt="image" width="400" height="300" /&gt; <br />
               &lt;/a&gt; <br />
               &lt;/div&gt; <br />
