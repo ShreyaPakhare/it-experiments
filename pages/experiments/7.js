@@ -25,7 +25,7 @@ function Experiment7() {
         &lt;/head&gt; <br />
         &lt;body&gt; <br />
         &lt;h1&gt;&lt;center&gt;&lt;i&gt;My Awesome Animal&lt;/i&gt;&lt;/center&gt;&lt;/h1&gt; <br />
-        &lt;img src="lionn.jpg" alt="image" width="400" height="300" /&gt; <br />
+        &lt;img src="lion.jpg" alt="image" width="400" height="300" /&gt; <br />
         &lt;p&gt;The lion is a wild animal.&lt;/p&gt; <br />
         &lt;p&gt;He is known as the king of the forest.&lt;/p&gt; <br />
         &lt;p&gt;He has a strong body having four legs, a large head, and two eyes which give a glowing
