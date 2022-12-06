@@ -83,7 +83,7 @@ function Experiment8() {
               &lt;tr&gt;&lt;td&gt;GRS Fantasy Park &lt;/td&gt;&lt;/tr&gt; <br />
               &lt;tr&gt;&lt;td&gt;Chamundi Hills&lt;/td&gt;&lt;/tr&gt; <br />
               &lt;/table&gt; <br />
-              &lt;iframe&gt; src="https://en.wikipedia.org/wiki/Mysore" width="400" height="300"&gt;&lt;/iframe&gt; <br />
+              &lt;iframe src="https://en.wikipedia.org/wiki/Mysore" width="400" height="300"&gt;&lt;/iframe&gt; <br />
               &lt;/body&gt; <br />
               &lt;/html&gt; <br />
             <strong className="block my-4 text-xl font-bold">Page: 4</strong>
